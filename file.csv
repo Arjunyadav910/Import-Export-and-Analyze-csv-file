@@ -1,0 +1,11 @@
+,Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+787,B-26078,44,20,2,Clothing,T-shirt,UPI
+530,B-25698,207,153,3,Clothing,Saree,Credit Card
+1140,B-25648,55,-26,4,Clothing,Saree,UPI
+679,B-25896,103,36,2,Clothing,Hankerchief,COD
+484,B-25997,231,99,2,Electronics,Electronic Games,Credit Card
+207,B-26081,169,0,3,Electronics,Accessories,COD
+274,B-25933,207,-100,2,Clothing,Saree,UPI
+1132,B-25687,17,6,1,Clothing,Stole,UPI
+846,B-25935,162,20,3,Furniture,Chairs,EMI
+633,B-25757,34,-11,5,Clothing,T-shirt,COD
